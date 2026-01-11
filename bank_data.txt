@@ -1,0 +1,25 @@
+6 1007
+1001
+wahid
+saving
+29000
+1002
+qayoom
+current
+30000
+1003
+Aon
+Current
+2000
+1004
+Muhammad haneef
+saving
+100000
+1005
+abdul wahid
+saving
+30000
+1006
+Abdul Wahid
+saving
+50000
